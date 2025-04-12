@@ -1,0 +1,84 @@
+{
+  "processing_time": 67.792,
+  "results": [
+    {
+      "box": {
+        "xmin": 844,
+        "ymin": 756,
+        "xmax": 1246,
+        "ymax": 848
+      },
+      "plate": "slb1123u",
+      "region": {
+        "code": "gb",
+        "score": 0.089
+      },
+      "score": 0.997,
+      "candidates": [
+        {
+          "score": 0.997,
+          "plate": "slb1123u"
+        }
+      ],
+      "dscore": 0.884,
+      "vehicle": {
+        "score": 0.912,
+        "type": "Sedan",
+        "box": {
+          "xmin": 469,
+          "ymin": 271,
+          "xmax": 2040,
+          "ymax": 1437
+        }
+      },
+      "model_make": [
+        {
+          "make": "Nissan",
+          "model": "Versa",
+          "score": 0.754
+        },
+        {
+          "make": "generic",
+          "model": "Unknown",
+          "score": 0.022
+        }
+      ],
+      "color": [
+        {
+          "color": "silver",
+          "score": 0.915
+        },
+        {
+          "color": "black",
+          "score": 0.02
+        },
+        {
+          "color": "yellow",
+          "score": 0.012
+        }
+      ],
+      "orientation": [
+        {
+          "orientation": "Rear",
+          "score": 0.926
+        },
+        {
+          "orientation": "Front",
+          "score": 0.04
+        },
+        {
+          "orientation": "Unknown",
+          "score": 0.034
+        }
+      ],
+      "direction": 70,
+      "direction_score": 1.0
+    }
+  ],
+  "filename": "1358_GBJlq_21.jpg",
+  "version": 1,
+  "camera_id": null,
+  "timestamp": "2025-04-12T13:58:04.873944Z",
+  "image_width": 2048,
+  "image_height": 1536
+}

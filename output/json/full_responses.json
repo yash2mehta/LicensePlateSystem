@@ -1,0 +1,3852 @@
+[
+  {
+    "Image Number (Filename)": "1.jpg",
+    "Full Response": {
+      "processing_time": 145.923,
+      "results": [
+        {
+          "box": {
+            "xmin": 701,
+            "ymin": 777,
+            "xmax": 1237,
+            "ymax": 1026
+          },
+          "plate": "sjm764s",
+          "region": {
+            "code": "gb",
+            "score": 0.277
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "sjm764s"
+            }
+          ],
+          "dscore": 0.855,
+          "vehicle": {
+            "score": 0.353,
+            "type": "Sedan",
+            "box": {
+              "xmin": 662,
+              "ymin": 40,
+              "xmax": 1838,
+              "ymax": 1114
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Corolla",
+              "score": 0.171
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.067
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.792
+            },
+            {
+              "color": "blue",
+              "score": 0.116
+            },
+            {
+              "color": "white",
+              "score": 0.027
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.857
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.107
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.037
+            }
+          ],
+          "direction": 219,
+          "direction_score": 0.697
+        }
+      ],
+      "filename": "1359_wcfDN_1.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T13:59:45.125681Z",
+      "image_width": 1854,
+      "image_height": 1390
+    }
+  },
+  {
+    "Image Number (Filename)": "2.jpg",
+    "Full Response": {
+      "processing_time": 104.131,
+      "results": [
+        {
+          "box": {
+            "xmin": 938,
+            "ymin": 765,
+            "xmax": 1302,
+            "ymax": 962
+          },
+          "plate": "slj4459p",
+          "region": {
+            "code": "gb",
+            "score": 0.031
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "slj4459p"
+            }
+          ],
+          "dscore": 0.867,
+          "vehicle": {
+            "score": 0.84,
+            "type": "Sedan",
+            "box": {
+              "xmin": 4,
+              "ymin": 15,
+              "xmax": 1407,
+              "ymax": 1241
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Civic",
+              "score": 0.982
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.0
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.907
+            },
+            {
+              "color": "blue",
+              "score": 0.029
+            },
+            {
+              "color": "silver",
+              "score": 0.013
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.926
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.046
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.028
+            }
+          ],
+          "direction": 12,
+          "direction_score": 0.282
+        }
+      ],
+      "filename": "1400_Zp3pK_2.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:06.530238Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "3.jpg",
+    "Full Response": {
+      "processing_time": 41.704,
+      "results": [
+        {
+          "box": {
+            "xmin": 728,
+            "ymin": 438,
+            "xmax": 1184,
+            "ymax": 615
+          },
+          "plate": "slh8323g",
+          "region": {
+            "code": "gb",
+            "score": 0.019
+          },
+          "score": 0.97,
+          "candidates": [
+            {
+              "score": 0.97,
+              "plate": "slh8323g"
+            }
+          ],
+          "dscore": 0.863,
+          "vehicle": {
+            "score": 0.482,
+            "type": "Sedan",
+            "box": {
+              "xmin": 5,
+              "ymin": 10,
+              "xmax": 1515,
+              "ymax": 1316
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Alphard",
+              "score": 0.417
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.047
+            }
+          ],
+          "color": [
+            {
+              "color": "white",
+              "score": 0.924
+            },
+            {
+              "color": "brown",
+              "score": 0.018
+            },
+            {
+              "color": "silver",
+              "score": 0.012
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.933
+            },
+            {
+              "orientation": "Front",
+              "score": 0.042
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.025
+            }
+          ],
+          "direction": 82,
+          "direction_score": 0.687
+        }
+      ],
+      "filename": "1400_edbVR_3.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:27.870485Z",
+      "image_width": 1830,
+      "image_height": 1372
+    }
+  },
+  {
+    "Image Number (Filename)": "4.jpg",
+    "Full Response": {
+      "processing_time": 49.074,
+      "results": [
+        {
+          "box": {
+            "xmin": 715,
+            "ymin": 733,
+            "xmax": 1161,
+            "ymax": 1036
+          },
+          "plate": "slw2345d",
+          "region": {
+            "code": "gb",
+            "score": 0.02
+          },
+          "score": 0.997,
+          "candidates": [
+            {
+              "score": 0.997,
+              "plate": "slw2345d"
+            }
+          ],
+          "dscore": 0.866,
+          "vehicle": {
+            "score": 0.77,
+            "type": "Sedan",
+            "box": {
+              "xmin": 149,
+              "ymin": 4,
+              "xmax": 2047,
+              "ymax": 1417
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Proace",
+              "score": 0.208
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.099
+            }
+          ],
+          "color": [
+            {
+              "color": "white",
+              "score": 0.865
+            },
+            {
+              "color": "silver",
+              "score": 0.07
+            },
+            {
+              "color": "brown",
+              "score": 0.011
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.933
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.044
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.023
+            }
+          ],
+          "direction": 260,
+          "direction_score": 0.482
+        }
+      ],
+      "filename": "1400_Aa1Hz_4.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:58.763920Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "5.jpg",
+    "Full Response": {
+      "processing_time": 182.053,
+      "results": [
+        {
+          "box": {
+            "xmin": 638,
+            "ymin": 804,
+            "xmax": 1096,
+            "ymax": 1020
+          },
+          "plate": "sku172x",
+          "region": {
+            "code": "gb",
+            "score": 0.186
+          },
+          "score": 1.0,
+          "candidates": [
+            {
+              "score": 1.0,
+              "plate": "sku172x"
+            }
+          ],
+          "dscore": 0.871,
+          "vehicle": {
+            "score": 0.872,
+            "type": "Sedan",
+            "box": {
+              "xmin": 2,
+              "ymin": 0,
+              "xmax": 1249,
+              "ymax": 1396
+            }
+          },
+          "model_make": [
+            {
+              "make": "Kia",
+              "model": "Cerato",
+              "score": 0.447
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.062
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.92
+            },
+            {
+              "color": "silver",
+              "score": 0.018
+            },
+            {
+              "color": "green",
+              "score": 0.012
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.93
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.042
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.028
+            }
+          ],
+          "direction": 293,
+          "direction_score": 0.445
+        }
+      ],
+      "filename": "1401_6Jgh9_5.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:10.961547Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "6.jpg",
+    "Full Response": {
+      "processing_time": 95.798,
+      "results": [
+        {
+          "box": {
+            "xmin": 795,
+            "ymin": 506,
+            "xmax": 1415,
+            "ymax": 795
+          },
+          "plate": "skr9859e",
+          "region": {
+            "code": "gb",
+            "score": 0.057
+          },
+          "score": 0.998,
+          "candidates": [
+            {
+              "score": 0.998,
+              "plate": "skr9859e"
+            }
+          ],
+          "dscore": 0.882,
+          "vehicle": {
+            "score": 0.757,
+            "type": "Sedan",
+            "box": {
+              "xmin": 12,
+              "ymin": 0,
+              "xmax": 1858,
+              "ymax": 1222
+            }
+          },
+          "model_make": [
+            {
+              "make": "Mitsubishi",
+              "model": "Lancer",
+              "score": 0.42
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.012
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.577
+            },
+            {
+              "color": "blue",
+              "score": 0.315
+            },
+            {
+              "color": "green",
+              "score": 0.025
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.942
+            },
+            {
+              "orientation": "Front",
+              "score": 0.031
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.027
+            }
+          ],
+          "direction": 102,
+          "direction_score": 0.994
+        }
+      ],
+      "filename": "1401_pLF6M_6.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:12.919430Z",
+      "image_width": 1910,
+      "image_height": 1432
+    }
+  },
+  {
+    "Image Number (Filename)": "7.jpg",
+    "Full Response": {
+      "processing_time": 121.662,
+      "results": [
+        {
+          "box": {
+            "xmin": 1050,
+            "ymin": 665,
+            "xmax": 1377,
+            "ymax": 869
+          },
+          "plate": "slu7648h",
+          "region": {
+            "code": "gb",
+            "score": 0.354
+          },
+          "score": 0.998,
+          "candidates": [
+            {
+              "score": 0.998,
+              "plate": "slu7648h"
+            }
+          ],
+          "dscore": 0.91,
+          "vehicle": {
+            "score": 0.932,
+            "type": "Sedan",
+            "box": {
+              "xmin": 597,
+              "ymin": 2,
+              "xmax": 2047,
+              "ymax": 1061
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "City",
+              "score": 0.292
+            },
+            {
+              "make": "Honda",
+              "model": "Civic",
+              "score": 0.168
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.026
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.887
+            },
+            {
+              "color": "silver",
+              "score": 0.034
+            },
+            {
+              "color": "green",
+              "score": 0.017
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.933
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.042
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.025
+            }
+          ],
+          "direction": 249,
+          "direction_score": 0.985
+        }
+      ],
+      "filename": "1401_Qjz2z_7.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:14.816685Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "8.jpg",
+    "Full Response": {
+      "processing_time": 73.434,
+      "results": [],
+      "filename": "1401_iJHDg_8.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:24.689999Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "9.jpg",
+    "Full Response": {
+      "processing_time": 57.27,
+      "results": [
+        {
+          "box": {
+            "xmin": 793,
+            "ymin": 714,
+            "xmax": 1659,
+            "ymax": 1093
+          },
+          "plate": "sld8576p",
+          "region": {
+            "code": "gb",
+            "score": 0.022
+          },
+          "score": 0.998,
+          "candidates": [
+            {
+              "score": 0.998,
+              "plate": "sld8576p"
+            }
+          ],
+          "dscore": 0.832,
+          "vehicle": {
+            "score": 0.934,
+            "type": "Sedan",
+            "box": {
+              "xmin": 11,
+              "ymin": 6,
+              "xmax": 2047,
+              "ymax": 1498
+            }
+          },
+          "model_make": [
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.121
+            }
+          ],
+          "color": [
+            {
+              "color": "red",
+              "score": 0.941
+            },
+            {
+              "color": "silver",
+              "score": 0.011
+            },
+            {
+              "color": "brown",
+              "score": 0.009
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.937
+            },
+            {
+              "orientation": "Front",
+              "score": 0.035
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.028
+            }
+          ],
+          "direction": 204,
+          "direction_score": 0.37
+        }
+      ],
+      "filename": "1401_lRjs0_9.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:26.520541Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "10.jpg",
+    "Full Response": {
+      "processing_time": 81.107,
+      "results": [
+        {
+          "box": {
+            "xmin": 912,
+            "ymin": 719,
+            "xmax": 1244,
+            "ymax": 979
+          },
+          "plate": "slu7648h",
+          "region": {
+            "code": "gb",
+            "score": 0.399
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "slu7648h"
+            }
+          ],
+          "dscore": 0.921,
+          "vehicle": {
+            "score": 0.848,
+            "type": "Sedan",
+            "box": {
+              "xmin": 516,
+              "ymin": 3,
+              "xmax": 2044,
+              "ymax": 1240
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Odyssey",
+              "score": 0.313
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.123
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.85
+            },
+            {
+              "color": "green",
+              "score": 0.043
+            },
+            {
+              "color": "silver",
+              "score": 0.035
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.933
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.04
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.027
+            }
+          ],
+          "direction": 226,
+          "direction_score": 0.639
+        }
+      ],
+      "filename": "1359_DHE1j_10.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T13:59:47.026195Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "11.jpg",
+    "Full Response": {
+      "processing_time": 56.869,
+      "results": [
+        {
+          "box": {
+            "xmin": 705,
+            "ymin": 606,
+            "xmax": 1338,
+            "ymax": 1069
+          },
+          "plate": "skw5352a",
+          "region": {
+            "code": "gb",
+            "score": 0.074
+          },
+          "score": 0.997,
+          "candidates": [
+            {
+              "score": 0.997,
+              "plate": "skw5352a"
+            }
+          ],
+          "dscore": 0.866,
+          "vehicle": {
+            "score": 0.866,
+            "type": "Sedan",
+            "box": {
+              "xmin": 36,
+              "ymin": 5,
+              "xmax": 2047,
+              "ymax": 1427
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Civic",
+              "score": 0.466
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.035
+            }
+          ],
+          "color": [
+            {
+              "color": "white",
+              "score": 0.87
+            },
+            {
+              "color": "silver",
+              "score": 0.048
+            },
+            {
+              "color": "black",
+              "score": 0.017
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.913
+            },
+            {
+              "orientation": "Front",
+              "score": 0.048
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.039
+            }
+          ],
+          "direction": 92,
+          "direction_score": 0.624
+        }
+      ],
+      "filename": "1359_lg3BS_11.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T13:59:48.631672Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "12.jpg",
+    "Full Response": {
+      "processing_time": 59.435,
+      "results": [
+        {
+          "box": {
+            "xmin": 1007,
+            "ymin": 874,
+            "xmax": 1381,
+            "ymax": 991
+          },
+          "plate": "gzb542e",
+          "region": {
+            "code": "gb",
+            "score": 0.121
+          },
+          "score": 0.864,
+          "candidates": [
+            {
+              "score": 0.864,
+              "plate": "gzb542e"
+            }
+          ],
+          "dscore": 0.892,
+          "vehicle": {
+            "score": 0.5,
+            "type": "Sedan",
+            "box": {
+              "xmin": 0,
+              "ymin": 0,
+              "xmax": 1656,
+              "ymax": 1295
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Hilux",
+              "score": 0.954
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.01
+            }
+          ],
+          "color": [
+            {
+              "color": "white",
+              "score": 0.753
+            },
+            {
+              "color": "silver",
+              "score": 0.168
+            },
+            {
+              "color": "brown",
+              "score": 0.016
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.919
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.053
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.028
+            }
+          ],
+          "direction": 294,
+          "direction_score": 0.523
+        }
+      ],
+      "filename": "1359_M1Vix_12.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T13:59:50.407011Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "13.jpg",
+    "Full Response": {
+      "processing_time": 151.911,
+      "results": [
+        {
+          "box": {
+            "xmin": 673,
+            "ymin": 770,
+            "xmax": 1308,
+            "ymax": 912
+          },
+          "plate": "sfj1628j",
+          "region": {
+            "code": "gb",
+            "score": 0.005
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "sfj1628j"
+            }
+          ],
+          "dscore": 0.879,
+          "vehicle": {
+            "score": 0.556,
+            "type": "SUV",
+            "box": {
+              "xmin": 142,
+              "ymin": 0,
+              "xmax": 2006,
+              "ymax": 1328
+            }
+          },
+          "model_make": [
+            {
+              "make": "Mitsubishi",
+              "model": "Space Star",
+              "score": 0.326
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.109
+            }
+          ],
+          "color": [
+            {
+              "color": "white",
+              "score": 0.579
+            },
+            {
+              "color": "silver",
+              "score": 0.353
+            },
+            {
+              "color": "black",
+              "score": 0.013
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.934
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.041
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.025
+            }
+          ],
+          "direction": 254,
+          "direction_score": 0.54
+        }
+      ],
+      "filename": "1359_27D6x_13.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T13:59:52.330587Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "14.jpg",
+    "Full Response": {
+      "processing_time": 193.825,
+      "results": [
+        {
+          "box": {
+            "xmin": 655,
+            "ymin": 823,
+            "xmax": 1002,
+            "ymax": 1092
+          },
+          "plate": "slb103j",
+          "region": {
+            "code": "gb",
+            "score": 0.296
+          },
+          "score": 1.0,
+          "candidates": [
+            {
+              "score": 1.0,
+              "plate": "slb103j"
+            }
+          ],
+          "dscore": 0.769,
+          "vehicle": {
+            "score": 0.371,
+            "type": "SUV",
+            "box": {
+              "xmin": 30,
+              "ymin": 0,
+              "xmax": 2034,
+              "ymax": 1384
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Alphard",
+              "score": 0.166
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.027
+            }
+          ],
+          "color": [
+            {
+              "color": "white",
+              "score": 0.739
+            },
+            {
+              "color": "silver",
+              "score": 0.163
+            },
+            {
+              "color": "brown",
+              "score": 0.029
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.93
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.051
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.019
+            }
+          ],
+          "direction": 217,
+          "direction_score": 0.644
+        }
+      ],
+      "filename": "1359_fiLe2_14.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T13:59:54.554634Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "15.jpg",
+    "Full Response": {
+      "processing_time": 270.88,
+      "results": [
+        {
+          "box": {
+            "xmin": 596,
+            "ymin": 735,
+            "xmax": 844,
+            "ymax": 978
+          },
+          "plate": "sjq9144b",
+          "region": {
+            "code": "gb",
+            "score": 0.364
+          },
+          "score": 1.0,
+          "candidates": [
+            {
+              "score": 1.0,
+              "plate": "sjq9144b"
+            }
+          ],
+          "dscore": 0.868,
+          "vehicle": {
+            "score": 0.767,
+            "type": "Sedan",
+            "box": {
+              "xmin": 423,
+              "ymin": 10,
+              "xmax": 2047,
+              "ymax": 1273
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Stream",
+              "score": 0.566
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.046
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.701
+            },
+            {
+              "color": "white",
+              "score": 0.203
+            },
+            {
+              "color": "yellow",
+              "score": 0.018
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.934
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.043
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.023
+            }
+          ],
+          "direction": 202,
+          "direction_score": 0.987
+        }
+      ],
+      "filename": "1359_LLTpX_15.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T13:59:56.478480Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "16.jpg",
+    "Full Response": {
+      "processing_time": 117.889,
+      "results": [
+        {
+          "box": {
+            "xmin": 1013,
+            "ymin": 871,
+            "xmax": 1232,
+            "ymax": 996
+          },
+          "plate": "slf7306z",
+          "region": {
+            "code": "gb",
+            "score": 0.145
+          },
+          "score": 0.998,
+          "candidates": [
+            {
+              "score": 0.998,
+              "plate": "slf7306z"
+            }
+          ],
+          "dscore": 0.804,
+          "vehicle": {
+            "score": 0.874,
+            "type": "SUV",
+            "box": {
+              "xmin": 665,
+              "ymin": 197,
+              "xmax": 2046,
+              "ymax": 1341
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "HR-V",
+              "score": 0.795
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.055
+            }
+          ],
+          "color": [
+            {
+              "color": "blue",
+              "score": 0.859
+            },
+            {
+              "color": "silver",
+              "score": 0.048
+            },
+            {
+              "color": "black",
+              "score": 0.032
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.932
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.045
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.024
+            }
+          ],
+          "direction": 209,
+          "direction_score": 0.556
+        }
+      ],
+      "filename": "1359_GaVdb_16.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T13:59:58.547742Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "17.jpg",
+    "Full Response": {
+      "processing_time": 86.874,
+      "results": [
+        {
+          "box": {
+            "xmin": 893,
+            "ymin": 707,
+            "xmax": 1226,
+            "ymax": 788
+          },
+          "plate": "smd1514c",
+          "region": {
+            "code": "gb",
+            "score": 0.014
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "smd1514c"
+            }
+          ],
+          "dscore": 0.871,
+          "vehicle": {
+            "score": 0.884,
+            "type": "SUV",
+            "box": {
+              "xmin": 143,
+              "ymin": 223,
+              "xmax": 1496,
+              "ymax": 1328
+            }
+          },
+          "model_make": [
+            {
+              "make": "Nissan",
+              "model": "Rogue Sport",
+              "score": 0.741
+            },
+            {
+              "make": "Nissan",
+              "model": "Rogue",
+              "score": 0.14
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.012
+            }
+          ],
+          "color": [
+            {
+              "color": "brown",
+              "score": 0.509
+            },
+            {
+              "color": "red",
+              "score": 0.14
+            },
+            {
+              "color": "black",
+              "score": 0.103
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.938
+            },
+            {
+              "orientation": "Front",
+              "score": 0.039
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.022
+            }
+          ],
+          "direction": 114,
+          "direction_score": 0.994
+        }
+      ],
+      "filename": "1400_51Gs3_17.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:00.399026Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "18.jpg",
+    "Full Response": {
+      "processing_time": 85.045,
+      "results": [
+        {
+          "box": {
+            "xmin": 712,
+            "ymin": 615,
+            "xmax": 1279,
+            "ymax": 778
+          },
+          "plate": "smd9699a",
+          "region": {
+            "code": "gb",
+            "score": 0.034
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "smd9699a"
+            }
+          ],
+          "dscore": 0.867,
+          "vehicle": {
+            "score": 0.937,
+            "type": "Sedan",
+            "box": {
+              "xmin": 284,
+              "ymin": 4,
+              "xmax": 2046,
+              "ymax": 1077
+            }
+          },
+          "model_make": [
+            {
+              "make": "Hyundai",
+              "model": "Elantra",
+              "score": 0.572
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.048
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.936
+            },
+            {
+              "color": "brown",
+              "score": 0.012
+            },
+            {
+              "color": "black",
+              "score": 0.009
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.92
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.046
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.034
+            }
+          ],
+          "direction": 247,
+          "direction_score": 0.923
+        }
+      ],
+      "filename": "1400_FAKp6_18.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:02.325228Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "19.jpg",
+    "Full Response": {
+      "processing_time": 60.966,
+      "results": [
+        {
+          "box": {
+            "xmin": 827,
+            "ymin": 793,
+            "xmax": 1352,
+            "ymax": 981
+          },
+          "plate": "scj9188u",
+          "region": {
+            "code": "it",
+            "score": 0.001
+          },
+          "score": 0.998,
+          "candidates": [
+            {
+              "score": 0.998,
+              "plate": "scj9188u"
+            }
+          ],
+          "dscore": 0.901,
+          "vehicle": {
+            "score": 0.945,
+            "type": "Sedan",
+            "box": {
+              "xmin": 527,
+              "ymin": 1,
+              "xmax": 2045,
+              "ymax": 1289
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Corolla",
+              "score": 0.689
+            },
+            {
+              "make": "Toyota",
+              "model": "Auris",
+              "score": 0.227
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.002
+            }
+          ],
+          "color": [
+            {
+              "color": "red",
+              "score": 0.893
+            },
+            {
+              "color": "brown",
+              "score": 0.017
+            },
+            {
+              "color": "white",
+              "score": 0.015
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.914
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.053
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.033
+            }
+          ],
+          "direction": 240,
+          "direction_score": 0.639
+        }
+      ],
+      "filename": "1400_SPhXJ_19.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:04.233058Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "20.jpg",
+    "Full Response": {
+      "processing_time": 50.801,
+      "results": [
+        {
+          "box": {
+            "xmin": 1022,
+            "ymin": 680,
+            "xmax": 1450,
+            "ymax": 785
+          },
+          "plate": "smt1802l",
+          "region": {
+            "code": "gb",
+            "score": 0.022
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "smt1802l"
+            }
+          ],
+          "dscore": 0.851,
+          "vehicle": {
+            "score": 0.793,
+            "type": "Sedan",
+            "box": {
+              "xmin": 483,
+              "ymin": 0,
+              "xmax": 2017,
+              "ymax": 1089
+            }
+          },
+          "model_make": [
+            {
+              "make": "SEAT",
+              "model": "Leon",
+              "score": 0.742
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.118
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.924
+            },
+            {
+              "color": "white",
+              "score": 0.013
+            },
+            {
+              "color": "black",
+              "score": 0.012
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.927
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.041
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.032
+            }
+          ],
+          "direction": 262,
+          "direction_score": 0.983
+        }
+      ],
+      "filename": "1400_XKuxY_20.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:08.403226Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "21.jpg",
+    "Full Response": {
+      "processing_time": 59.71,
+      "results": [
+        {
+          "box": {
+            "xmin": 844,
+            "ymin": 756,
+            "xmax": 1246,
+            "ymax": 848
+          },
+          "plate": "slb1123u",
+          "region": {
+            "code": "gb",
+            "score": 0.089
+          },
+          "score": 0.997,
+          "candidates": [
+            {
+              "score": 0.997,
+              "plate": "slb1123u"
+            }
+          ],
+          "dscore": 0.884,
+          "vehicle": {
+            "score": 0.912,
+            "type": "Sedan",
+            "box": {
+              "xmin": 469,
+              "ymin": 271,
+              "xmax": 2040,
+              "ymax": 1437
+            }
+          },
+          "model_make": [
+            {
+              "make": "Nissan",
+              "model": "Versa",
+              "score": 0.754
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.022
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.915
+            },
+            {
+              "color": "black",
+              "score": 0.02
+            },
+            {
+              "color": "yellow",
+              "score": 0.012
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.926
+            },
+            {
+              "orientation": "Front",
+              "score": 0.04
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.034
+            }
+          ],
+          "direction": 70,
+          "direction_score": 1.0
+        }
+      ],
+      "filename": "1400_QOvi1_21.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:10.214444Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "22.jpg",
+    "Full Response": {
+      "processing_time": 41.801,
+      "results": [
+        {
+          "box": {
+            "xmin": 981,
+            "ymin": 791,
+            "xmax": 1303,
+            "ymax": 960
+          },
+          "plate": "sja5313r",
+          "region": {
+            "code": "gb",
+            "score": 0.015
+          },
+          "score": 0.99,
+          "candidates": [
+            {
+              "score": 0.99,
+              "plate": "sja5313r"
+            }
+          ],
+          "dscore": 0.901,
+          "vehicle": {
+            "score": 0.946,
+            "type": "Sedan",
+            "box": {
+              "xmin": 7,
+              "ymin": 5,
+              "xmax": 1842,
+              "ymax": 1165
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Civic",
+              "score": 0.92
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.001
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.611
+            },
+            {
+              "color": "brown",
+              "score": 0.176
+            },
+            {
+              "color": "yellow",
+              "score": 0.141
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.927
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.044
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.029
+            }
+          ],
+          "direction": 303,
+          "direction_score": 1.0
+        }
+      ],
+      "filename": "1400_1uNKd_22.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:12.034916Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "23.jpg",
+    "Full Response": {
+      "processing_time": 80.454,
+      "results": [
+        {
+          "box": {
+            "xmin": 774,
+            "ymin": 856,
+            "xmax": 1255,
+            "ymax": 1003
+          },
+          "plate": "smf9023p",
+          "region": {
+            "code": "gb",
+            "score": 0.017
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "smf9023p"
+            }
+          ],
+          "dscore": 0.894,
+          "vehicle": {
+            "score": 0.613,
+            "type": "SUV",
+            "box": {
+              "xmin": 0,
+              "ymin": 11,
+              "xmax": 1567,
+              "ymax": 1289
+            }
+          },
+          "model_make": [
+            {
+              "make": "Hyundai",
+              "model": "Tucson",
+              "score": 0.382
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.104
+            }
+          ],
+          "color": [
+            {
+              "color": "blue",
+              "score": 0.918
+            },
+            {
+              "color": "black",
+              "score": 0.019
+            },
+            {
+              "color": "brown",
+              "score": 0.01
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.927
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.043
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.03
+            }
+          ],
+          "direction": 305,
+          "direction_score": 0.953
+        }
+      ],
+      "filename": "1400_pvi9q_23.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:13.845189Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "24.jpg",
+    "Full Response": {
+      "processing_time": 111.124,
+      "results": [
+        {
+          "box": {
+            "xmin": 824,
+            "ymin": 848,
+            "xmax": 1082,
+            "ymax": 995
+          },
+          "plate": "sfp5878x",
+          "region": {
+            "code": "gb",
+            "score": 0.058
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "sfp5878x"
+            }
+          ],
+          "dscore": 0.838,
+          "vehicle": {
+            "score": 0.57,
+            "type": "Van",
+            "box": {
+              "xmin": 0,
+              "ymin": 0,
+              "xmax": 1533,
+              "ymax": 1157
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Odyssey",
+              "score": 0.274
+            },
+            {
+              "make": "Honda",
+              "model": "Stream",
+              "score": 0.186
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.077
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.904
+            },
+            {
+              "color": "white",
+              "score": 0.024
+            },
+            {
+              "color": "black",
+              "score": 0.015
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.937
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.042
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.022
+            }
+          ],
+          "direction": 296,
+          "direction_score": 1.0
+        },
+        {
+          "box": {
+            "xmin": 1826,
+            "ymin": 221,
+            "xmax": 1920,
+            "ymax": 293
+          },
+          "plate": "slw811m",
+          "region": {
+            "code": "at",
+            "score": 0.005
+          },
+          "score": 1.0,
+          "candidates": [
+            {
+              "score": 1.0,
+              "plate": "slw811m"
+            }
+          ],
+          "dscore": 0.806,
+          "vehicle": {
+            "score": 0.671,
+            "type": "Sedan",
+            "box": {
+              "xmin": 1625,
+              "ymin": 2,
+              "xmax": 2045,
+              "ymax": 423
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Sienta",
+              "score": 0.684
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.007
+            }
+          ],
+          "color": [
+            {
+              "color": "red",
+              "score": 0.901
+            },
+            {
+              "color": "black",
+              "score": 0.016
+            },
+            {
+              "color": "silver",
+              "score": 0.016
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.855
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.113
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.032
+            }
+          ],
+          "direction": 325,
+          "direction_score": 0.917
+        }
+      ],
+      "filename": "1400_g2tqY_24.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:15.662961Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "25.jpg",
+    "Full Response": {
+      "processing_time": 325.671,
+      "results": [
+        {
+          "box": {
+            "xmin": 780,
+            "ymin": 715,
+            "xmax": 1224,
+            "ymax": 841
+          },
+          "plate": "sja6561j",
+          "region": {
+            "code": "gb",
+            "score": 0.032
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "sja6561j"
+            }
+          ],
+          "dscore": 0.868,
+          "vehicle": {
+            "score": 0.891,
+            "type": "Sedan",
+            "box": {
+              "xmin": 541,
+              "ymin": 5,
+              "xmax": 2042,
+              "ymax": 1137
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Vios",
+              "score": 0.921
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.001
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.858
+            },
+            {
+              "color": "blue",
+              "score": 0.054
+            },
+            {
+              "color": "white",
+              "score": 0.018
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.918
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.052
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.03
+            }
+          ],
+          "direction": 221,
+          "direction_score": 0.931
+        }
+      ],
+      "filename": "1400_KhmNO_25.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:17.651255Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "26.jpg",
+    "Full Response": {
+      "processing_time": 60.262,
+      "results": [
+        {
+          "box": {
+            "xmin": 1052,
+            "ymin": 678,
+            "xmax": 1264,
+            "ymax": 794
+          },
+          "plate": "slu7648h",
+          "region": {
+            "code": "gb",
+            "score": 0.325
+          },
+          "score": 1.0,
+          "candidates": [
+            {
+              "score": 1.0,
+              "plate": "slu7648h"
+            }
+          ],
+          "dscore": 0.878,
+          "vehicle": {
+            "score": 0.678,
+            "type": "SUV",
+            "box": {
+              "xmin": 722,
+              "ymin": 207,
+              "xmax": 2022,
+              "ymax": 1315
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Stream",
+              "score": 0.556
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.086
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.796
+            },
+            {
+              "color": "silver",
+              "score": 0.089
+            },
+            {
+              "color": "blue",
+              "score": 0.03
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.933
+            },
+            {
+              "orientation": "Front",
+              "score": 0.039
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.028
+            }
+          ],
+          "direction": 67,
+          "direction_score": 1.0
+        }
+      ],
+      "filename": "1400_oKpRH_26.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:19.963457Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "27.jpg",
+    "Full Response": {
+      "processing_time": 130.656,
+      "results": [
+        {
+          "box": {
+            "xmin": 770,
+            "ymin": 613,
+            "xmax": 1079,
+            "ymax": 692
+          },
+          "plate": "shd7193p",
+          "region": {
+            "code": "gb",
+            "score": 0.026
+          },
+          "score": 0.951,
+          "candidates": [
+            {
+              "score": 0.951,
+              "plate": "shd7193p"
+            }
+          ],
+          "dscore": 0.864,
+          "vehicle": {
+            "score": 0.962,
+            "type": "Sedan",
+            "box": {
+              "xmin": 499,
+              "ymin": 192,
+              "xmax": 2043,
+              "ymax": 1142
+            }
+          },
+          "model_make": [
+            {
+              "make": "Hyundai",
+              "model": "i40",
+              "score": 0.728
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.008
+            }
+          ],
+          "color": [
+            {
+              "color": "blue",
+              "score": 0.885
+            },
+            {
+              "color": "white",
+              "score": 0.032
+            },
+            {
+              "color": "silver",
+              "score": 0.028
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.933
+            },
+            {
+              "orientation": "Front",
+              "score": 0.041
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.026
+            }
+          ],
+          "direction": 54,
+          "direction_score": 0.998
+        }
+      ],
+      "filename": "1400_DefG6_27.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:21.997942Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "28.jpg",
+    "Full Response": {
+      "processing_time": 58.837,
+      "results": [
+        {
+          "box": {
+            "xmin": 890,
+            "ymin": 713,
+            "xmax": 1338,
+            "ymax": 841
+          },
+          "plate": "sml5119s",
+          "region": {
+            "code": "gb",
+            "score": 0.004
+          },
+          "score": 0.998,
+          "candidates": [
+            {
+              "score": 0.998,
+              "plate": "sml5119s"
+            }
+          ],
+          "dscore": 0.894,
+          "vehicle": {
+            "score": 0.653,
+            "type": "SUV",
+            "box": {
+              "xmin": 0,
+              "ymin": 0,
+              "xmax": 1621,
+              "ymax": 1223
+            }
+          },
+          "model_make": [
+            {
+              "make": "Mitsubishi",
+              "model": "Attrage",
+              "score": 0.816
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.004
+            }
+          ],
+          "color": [
+            {
+              "color": "white",
+              "score": 0.813
+            },
+            {
+              "color": "silver",
+              "score": 0.122
+            },
+            {
+              "color": "black",
+              "score": 0.012
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.935
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.04
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.025
+            }
+          ],
+          "direction": 330,
+          "direction_score": 0.823
+        }
+      ],
+      "filename": "1400_auQvB_28.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:24.009463Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "29.jpg",
+    "Full Response": {
+      "processing_time": 46.392,
+      "results": [
+        {
+          "box": {
+            "xmin": 963,
+            "ymin": 583,
+            "xmax": 1211,
+            "ymax": 734
+          },
+          "plate": "sjh469x",
+          "region": {
+            "code": "gb",
+            "score": 0.357
+          },
+          "score": 0.994,
+          "candidates": [
+            {
+              "score": 0.994,
+              "plate": "sjh469x"
+            }
+          ],
+          "dscore": 0.853,
+          "vehicle": {
+            "score": 0.95,
+            "type": "Sedan",
+            "box": {
+              "xmin": 121,
+              "ymin": 66,
+              "xmax": 1678,
+              "ymax": 1321
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Fit",
+              "score": 0.481
+            },
+            {
+              "make": "Honda",
+              "model": "Jazz",
+              "score": 0.34
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.002
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.868
+            },
+            {
+              "color": "blue",
+              "score": 0.06
+            },
+            {
+              "color": "white",
+              "score": 0.013
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.932
+            },
+            {
+              "orientation": "Front",
+              "score": 0.041
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.026
+            }
+          ],
+          "direction": 102,
+          "direction_score": 0.7
+        }
+      ],
+      "filename": "1400_w9J67_29.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:26.135236Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "30.jpg",
+    "Full Response": {
+      "processing_time": 50.583,
+      "results": [
+        {
+          "box": {
+            "xmin": 715,
+            "ymin": 781,
+            "xmax": 1179,
+            "ymax": 907
+          },
+          "plate": "scr2266g",
+          "region": {
+            "code": "gb",
+            "score": 0.041
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "scr2266g"
+            }
+          ],
+          "dscore": 0.894,
+          "vehicle": {
+            "score": 0.927,
+            "type": "Sedan",
+            "box": {
+              "xmin": 348,
+              "ymin": 0,
+              "xmax": 2043,
+              "ymax": 1197
+            }
+          },
+          "model_make": [
+            {
+              "make": "Hyundai",
+              "model": "Veloster",
+              "score": 0.841
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.027
+            }
+          ],
+          "color": [
+            {
+              "color": "yellow",
+              "score": 0.623
+            },
+            {
+              "color": "brown",
+              "score": 0.248
+            },
+            {
+              "color": "red",
+              "score": 0.033
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.927
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.049
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.024
+            }
+          ],
+          "direction": 227,
+          "direction_score": 0.992
+        }
+      ],
+      "filename": "1400_dIriG_30.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:30.057703Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "31.jpg",
+    "Full Response": {
+      "processing_time": 100.357,
+      "results": [
+        {
+          "box": {
+            "xmin": 620,
+            "ymin": 360,
+            "xmax": 883,
+            "ymax": 435
+          },
+          "plate": "skt496s",
+          "region": {
+            "code": "gb",
+            "score": 0.209
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "skt496s"
+            }
+          ],
+          "dscore": 0.871,
+          "vehicle": {
+            "score": 0.96,
+            "type": "Sedan",
+            "box": {
+              "xmin": 344,
+              "ymin": 0,
+              "xmax": 1646,
+              "ymax": 713
+            }
+          },
+          "model_make": [
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.026
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.881
+            },
+            {
+              "color": "blue",
+              "score": 0.047
+            },
+            {
+              "color": "black",
+              "score": 0.017
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.931
+            },
+            {
+              "orientation": "Front",
+              "score": 0.041
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.029
+            }
+          ],
+          "direction": 55,
+          "direction_score": 0.998
+        }
+      ],
+      "filename": "1400_BjNna_31.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:31.879392Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "32.jpg",
+    "Full Response": {
+      "processing_time": 95.15,
+      "results": [
+        {
+          "box": {
+            "xmin": 792,
+            "ymin": 705,
+            "xmax": 945,
+            "ymax": 803
+          },
+          "plate": "shd2017z",
+          "region": {
+            "code": "gb",
+            "score": 0.151
+          },
+          "score": 0.913,
+          "candidates": [
+            {
+              "score": 0.913,
+              "plate": "shd2017z"
+            }
+          ],
+          "dscore": 0.815,
+          "vehicle": {
+            "score": 0.937,
+            "type": "Sedan",
+            "box": {
+              "xmin": 509,
+              "ymin": 154,
+              "xmax": 1605,
+              "ymax": 934
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Jazz",
+              "score": 0.407
+            },
+            {
+              "make": "Honda",
+              "model": "Fit",
+              "score": 0.156
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.01
+            }
+          ],
+          "color": [
+            {
+              "color": "brown",
+              "score": 0.371
+            },
+            {
+              "color": "yellow",
+              "score": 0.247
+            },
+            {
+              "color": "silver",
+              "score": 0.123
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.921
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.047
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.032
+            }
+          ],
+          "direction": 226,
+          "direction_score": 0.993
+        }
+      ],
+      "filename": "1400_4nYGq_32.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:33.789685Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "33.jpg",
+    "Full Response": {
+      "processing_time": 61.482,
+      "results": [
+        {
+          "box": {
+            "xmin": 1402,
+            "ymin": 868,
+            "xmax": 1644,
+            "ymax": 928
+          },
+          "plate": "smp3942z",
+          "region": {
+            "code": "gb",
+            "score": 0.014
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "smp3942z"
+            }
+          ],
+          "dscore": 0.865,
+          "vehicle": {
+            "score": 0.588,
+            "type": "SUV",
+            "box": {
+              "xmin": 49,
+              "ymin": 208,
+              "xmax": 1792,
+              "ymax": 1138
+            }
+          },
+          "model_make": [
+            {
+              "make": "Hyundai",
+              "model": "Kona",
+              "score": 0.828
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.005
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.563
+            },
+            {
+              "color": "blue",
+              "score": 0.237
+            },
+            {
+              "color": "silver",
+              "score": 0.11
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.933
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.047
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.02
+            }
+          ],
+          "direction": 341,
+          "direction_score": 1.0
+        }
+      ],
+      "filename": "1400_76L5N_33.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:35.685186Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "34.jpg",
+    "Full Response": {
+      "processing_time": 68.046,
+      "results": [
+        {
+          "box": {
+            "xmin": 802,
+            "ymin": 606,
+            "xmax": 1148,
+            "ymax": 682
+          },
+          "plate": "skw3043e",
+          "region": {
+            "code": "gb",
+            "score": 0.011
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "skw3043e"
+            }
+          ],
+          "dscore": 0.88,
+          "vehicle": {
+            "score": 0.927,
+            "type": "Sedan",
+            "box": {
+              "xmin": 506,
+              "ymin": 180,
+              "xmax": 2030,
+              "ymax": 1158
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "City",
+              "score": 0.848
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.017
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.896
+            },
+            {
+              "color": "silver",
+              "score": 0.032
+            },
+            {
+              "color": "brown",
+              "score": 0.016
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.934
+            },
+            {
+              "orientation": "Front",
+              "score": 0.039
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.027
+            }
+          ],
+          "direction": 61,
+          "direction_score": 0.991
+        }
+      ],
+      "filename": "1400_YSkXN_34.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:37.458440Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "35.jpg",
+    "Full Response": {
+      "processing_time": 185.341,
+      "results": [
+        {
+          "box": {
+            "xmin": 842,
+            "ymin": 800,
+            "xmax": 1196,
+            "ymax": 886
+          },
+          "plate": "slm1926l",
+          "region": {
+            "code": "gb",
+            "score": 0.012
+          },
+          "score": 0.992,
+          "candidates": [
+            {
+              "score": 0.992,
+              "plate": "slm1926l"
+            }
+          ],
+          "dscore": 0.884,
+          "vehicle": {
+            "score": 0.933,
+            "type": "SUV",
+            "box": {
+              "xmin": 335,
+              "ymin": 199,
+              "xmax": 1612,
+              "ymax": 1373
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Sienta",
+              "score": 0.547
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.008
+            }
+          ],
+          "color": [
+            {
+              "color": "white",
+              "score": 0.915
+            },
+            {
+              "color": "silver",
+              "score": 0.015
+            },
+            {
+              "color": "brown",
+              "score": 0.014
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.933
+            },
+            {
+              "orientation": "Front",
+              "score": 0.04
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.027
+            }
+          ],
+          "direction": 98,
+          "direction_score": 1.0
+        }
+      ],
+      "filename": "1400_25y5w_35.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:39.271426Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "36.jpg",
+    "Full Response": {
+      "processing_time": 232.299,
+      "results": [
+        {
+          "box": {
+            "xmin": 992,
+            "ymin": 838,
+            "xmax": 1157,
+            "ymax": 962
+          },
+          "plate": "smu8516l",
+          "region": {
+            "code": "gb",
+            "score": 0.072
+          },
+          "score": 0.997,
+          "candidates": [
+            {
+              "score": 0.997,
+              "plate": "smu8516l"
+            }
+          ],
+          "dscore": 0.797,
+          "vehicle": {
+            "score": 0.947,
+            "type": "Sedan",
+            "box": {
+              "xmin": 6,
+              "ymin": 375,
+              "xmax": 1487,
+              "ymax": 1371
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Vios",
+              "score": 0.264
+            },
+            {
+              "make": "Toyota",
+              "model": "Corolla",
+              "score": 0.174
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.012
+            }
+          ],
+          "color": [
+            {
+              "color": "silver",
+              "score": 0.648
+            },
+            {
+              "color": "black",
+              "score": 0.258
+            },
+            {
+              "color": "blue",
+              "score": 0.02
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.933
+            },
+            {
+              "orientation": "Front",
+              "score": 0.041
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.025
+            }
+          ],
+          "direction": 122,
+          "direction_score": 0.934
+        }
+      ],
+      "filename": "1400_7IvT5_36.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:41.643109Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "37.jpg",
+    "Full Response": {
+      "processing_time": 180.706,
+      "results": [
+        {
+          "box": {
+            "xmin": 762,
+            "ymin": 1052,
+            "xmax": 1122,
+            "ymax": 1136
+          },
+          "plate": "slv1881j",
+          "region": {
+            "code": "gb",
+            "score": 0.012
+          },
+          "score": 0.99,
+          "candidates": [
+            {
+              "score": 0.99,
+              "plate": "slv1881j"
+            },
+            {
+              "score": 0.882,
+              "plate": "slv1981j"
+            }
+          ],
+          "dscore": 0.88,
+          "vehicle": {
+            "score": 0.827,
+            "type": "Sedan",
+            "box": {
+              "xmin": 221,
+              "ymin": 513,
+              "xmax": 1501,
+              "ymax": 1522
+            }
+          },
+          "model_make": [
+            {
+              "make": "Audi",
+              "model": "Q5",
+              "score": 0.942
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.015
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.936
+            },
+            {
+              "color": "silver",
+              "score": 0.014
+            },
+            {
+              "color": "brown",
+              "score": 0.012
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.926
+            },
+            {
+              "orientation": "Front",
+              "score": 0.04
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.034
+            }
+          ],
+          "direction": 99,
+          "direction_score": 1.0
+        },
+        {
+          "box": {
+            "xmin": 1526,
+            "ymin": 772,
+            "xmax": 1607,
+            "ymax": 818
+          },
+          "plate": "smu8516l",
+          "region": {
+            "code": "gb",
+            "score": 0.018
+          },
+          "score": 0.997,
+          "candidates": [
+            {
+              "score": 0.997,
+              "plate": "smu8516l"
+            }
+          ],
+          "dscore": 0.701,
+          "vehicle": {
+            "score": 0.497,
+            "type": "SUV",
+            "box": {
+              "xmin": 1237,
+              "ymin": 588,
+              "xmax": 1774,
+              "ymax": 1001
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "Corolla",
+              "score": 0.294
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.043
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.915
+            },
+            {
+              "color": "silver",
+              "score": 0.023
+            },
+            {
+              "color": "green",
+              "score": 0.018
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.943
+            },
+            {
+              "orientation": "Front",
+              "score": 0.033
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.024
+            }
+          ],
+          "direction": 105,
+          "direction_score": 0.99
+        }
+      ],
+      "filename": "1400_ylM2h_37.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:44.143147Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "38.jpg",
+    "Full Response": {
+      "processing_time": 130.027,
+      "results": [],
+      "filename": "1400_8bNja_38.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:55.040542Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "39.jpg",
+    "Full Response": {
+      "processing_time": 63.784,
+      "results": [
+        {
+          "box": {
+            "xmin": 1051,
+            "ymin": 580,
+            "xmax": 1218,
+            "ymax": 630
+          },
+          "plate": "ska1037c",
+          "region": {
+            "code": "gb",
+            "score": 0.15
+          },
+          "score": 0.997,
+          "candidates": [
+            {
+              "score": 0.997,
+              "plate": "ska1037c"
+            }
+          ],
+          "dscore": 0.836,
+          "vehicle": {
+            "score": 0.944,
+            "type": "Sedan",
+            "box": {
+              "xmin": 900,
+              "ymin": 110,
+              "xmax": 2046,
+              "ymax": 791
+            }
+          },
+          "model_make": [
+            {
+              "make": "BMW",
+              "model": "5 Series",
+              "score": 0.529
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.069
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.906
+            },
+            {
+              "color": "silver",
+              "score": 0.019
+            },
+            {
+              "color": "yellow",
+              "score": 0.014
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.928
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.046
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.026
+            }
+          ],
+          "direction": 200,
+          "direction_score": 0.999
+        }
+      ],
+      "filename": "1400_12ELZ_39.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:00:56.918571Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "40.jpg",
+    "Full Response": {
+      "processing_time": 91.31,
+      "results": [
+        {
+          "box": {
+            "xmin": 1099,
+            "ymin": 557,
+            "xmax": 1490,
+            "ymax": 748
+          },
+          "plate": "skw9253b",
+          "region": {
+            "code": "gb",
+            "score": 0.241
+          },
+          "score": 0.984,
+          "candidates": [
+            {
+              "score": 0.984,
+              "plate": "skw9253b"
+            }
+          ],
+          "dscore": 0.881,
+          "vehicle": {
+            "score": 0.582,
+            "type": "Sedan",
+            "box": {
+              "xmin": 0,
+              "ymin": 11,
+              "xmax": 2031,
+              "ymax": 1477
+            }
+          },
+          "model_make": [
+            {
+              "make": "Toyota",
+              "model": "RAV4",
+              "score": 0.222
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.124
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.628
+            },
+            {
+              "color": "red",
+              "score": 0.14
+            },
+            {
+              "color": "white",
+              "score": 0.081
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.926
+            },
+            {
+              "orientation": "Front",
+              "score": 0.055
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.02
+            }
+          ],
+          "direction": 106,
+          "direction_score": 1.0
+        }
+      ],
+      "filename": "1401_9fSb3_40.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:00.535592Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "41.jpg",
+    "Full Response": {
+      "processing_time": 352.207,
+      "results": [
+        {
+          "box": {
+            "xmin": 1386,
+            "ymin": 393,
+            "xmax": 1691,
+            "ymax": 458
+          },
+          "plate": "sjm863p",
+          "region": {
+            "code": "gb",
+            "score": 0.101
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "sjm863p"
+            }
+          ],
+          "dscore": 0.855,
+          "vehicle": {
+            "score": 0.951,
+            "type": "Sedan",
+            "box": {
+              "xmin": 976,
+              "ymin": 9,
+              "xmax": 2046,
+              "ymax": 883
+            }
+          },
+          "model_make": [
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.091
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.857
+            },
+            {
+              "color": "silver",
+              "score": 0.027
+            },
+            {
+              "color": "white",
+              "score": 0.02
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Rear",
+              "score": 0.927
+            },
+            {
+              "orientation": "Front",
+              "score": 0.041
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.031
+            }
+          ],
+          "direction": 94,
+          "direction_score": 0.999
+        }
+      ],
+      "filename": "1401_81qb4_41.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:02.343998Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "42.jpg",
+    "Full Response": {
+      "processing_time": 84.581,
+      "results": [
+        {
+          "box": {
+            "xmin": 1177,
+            "ymin": 1071,
+            "xmax": 1443,
+            "ymax": 1163
+          },
+          "plate": "snb6849c",
+          "region": {
+            "code": "gb",
+            "score": 0.016
+          },
+          "score": 0.999,
+          "candidates": [
+            {
+              "score": 0.999,
+              "plate": "snb6849c"
+            }
+          ],
+          "dscore": 0.871,
+          "vehicle": {
+            "score": 0.926,
+            "type": "Sedan",
+            "box": {
+              "xmin": 258,
+              "ymin": 482,
+              "xmax": 1651,
+              "ymax": 1313
+            }
+          },
+          "model_make": [
+            {
+              "make": "Mercedes-Benz",
+              "model": "GLC",
+              "score": 0.14
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.111
+            }
+          ],
+          "color": [
+            {
+              "color": "black",
+              "score": 0.891
+            },
+            {
+              "color": "silver",
+              "score": 0.025
+            },
+            {
+              "color": "blue",
+              "score": 0.02
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.921
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.044
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.035
+            }
+          ],
+          "direction": 323,
+          "direction_score": 1.0
+        }
+      ],
+      "filename": "1401_rafsH_42.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:04.675227Z",
+      "image_width": 1830,
+      "image_height": 1372
+    }
+  },
+  {
+    "Image Number (Filename)": "43.jpg",
+    "Full Response": {
+      "processing_time": 67.778,
+      "results": [
+        {
+          "box": {
+            "xmin": 1025,
+            "ymin": 1047,
+            "xmax": 1189,
+            "ymax": 1156
+          },
+          "plate": "smp843x",
+          "region": {
+            "code": "gb",
+            "score": 0.415
+          },
+          "score": 1.0,
+          "candidates": [
+            {
+              "score": 1.0,
+              "plate": "smp843x"
+            }
+          ],
+          "dscore": 0.825,
+          "vehicle": {
+            "score": 0.735,
+            "type": "Van",
+            "box": {
+              "xmin": 790,
+              "ymin": 301,
+              "xmax": 2027,
+              "ymax": 1250
+            }
+          },
+          "model_make": [
+            {
+              "make": "Honda",
+              "model": "Stepwgn",
+              "score": 0.478
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.067
+            }
+          ],
+          "color": [
+            {
+              "color": "red",
+              "score": 0.933
+            },
+            {
+              "color": "brown",
+              "score": 0.011
+            },
+            {
+              "color": "black",
+              "score": 0.01
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.925
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.047
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.028
+            }
+          ],
+          "direction": 224,
+          "direction_score": 0.854
+        }
+      ],
+      "filename": "1401_9O9iA_43.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:07.111527Z",
+      "image_width": 2048,
+      "image_height": 1536
+    }
+  },
+  {
+    "Image Number (Filename)": "44.jpg",
+    "Full Response": {
+      "processing_time": 97.982,
+      "results": [
+        {
+          "box": {
+            "xmin": 1544,
+            "ymin": 928,
+            "xmax": 1809,
+            "ymax": 1056
+          },
+          "plate": "sme545p",
+          "region": {
+            "code": "gb",
+            "score": 0.899
+          },
+          "score": 1.0,
+          "candidates": [
+            {
+              "score": 1.0,
+              "plate": "sme545p"
+            }
+          ],
+          "dscore": 0.891,
+          "vehicle": {
+            "score": 0.961,
+            "type": "Sedan",
+            "box": {
+              "xmin": 348,
+              "ymin": 434,
+              "xmax": 1900,
+              "ymax": 1306
+            }
+          },
+          "model_make": [
+            {
+              "make": "BMW",
+              "model": "M3",
+              "score": 0.571
+            },
+            {
+              "make": "generic",
+              "model": "Unknown",
+              "score": 0.126
+            }
+          ],
+          "color": [
+            {
+              "color": "yellow",
+              "score": 0.875
+            },
+            {
+              "color": "silver",
+              "score": 0.028
+            },
+            {
+              "color": "black",
+              "score": 0.019
+            }
+          ],
+          "orientation": [
+            {
+              "orientation": "Front",
+              "score": 0.93
+            },
+            {
+              "orientation": "Rear",
+              "score": 0.042
+            },
+            {
+              "orientation": "Unknown",
+              "score": 0.028
+            }
+          ],
+          "direction": 338,
+          "direction_score": 0.554
+        }
+      ],
+      "filename": "1401_h3hPt_44.jpg",
+      "version": 1,
+      "camera_id": null,
+      "timestamp": "2025-04-12T14:01:09.046078Z",
+      "image_width": 2016,
+      "image_height": 1512
+    }
+  }
+]
