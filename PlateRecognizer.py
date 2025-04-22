@@ -10,7 +10,7 @@ import time
 from datetime import timedelta
 
 # API Configuration
-TOKEN = "210ed0449ee06e8d9bcee4a67c742814e4e7366e"
+TOKEN = ""
 CURRENT_DIRECTORY = "selected_images"
 
 def recognize_license_plate(image_path, token, regions=["sg"], strict_region=True, mmc=True):
